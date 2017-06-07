@@ -1,4 +1,4 @@
 # ignize
 Photo management web tool
 
-much photo, very ignization
+Much photo, very ignization!
